@@ -5,7 +5,7 @@
 
 code by Sulian Thual (2020)
 
-Jupyter Notebook to analysis and forecast El Nino.
+Jupyter Notebook to analysis and forecast El Nino. Made to showcase some coding and data analysis skills. 
 
 references: https://github.com/sulianthual/ensofun
 
