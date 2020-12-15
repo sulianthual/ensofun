@@ -9,6 +9,6 @@ Jupyter Notebook to analysis and forecast El Nino.
 
 references: https://github.com/sulianthual/ensofun
 
-
+Nbviewer: View directly the jupyter notebook [here](https://nbviewer.jupyter.org/github/sulianthual/ensofun/blob/main/main.ipynb)
 
 
