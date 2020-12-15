@@ -5,10 +5,12 @@
 
 code by Sulian Thual (2020)
 
-Jupyter Notebook to analysis and forecast El Nino. Made to showcase some coding and data analysis skills. 
+A collection of experiments around the climate phenomenon El Nino. Made to showcase some coding and data analysis skills. WIP
 
 references: https://github.com/sulianthual/ensofun
 
-Nbviewer: View directly the jupyter notebook [here](https://nbviewer.jupyter.org/github/sulianthual/ensofun/blob/main/main.ipynb)
+View content directly:
+
+[El Nino identification with PCA](https://nbviewer.jupyter.org/github/sulianthual/ensofun/blob/main/enso_eofs.ipynb)
 
 
